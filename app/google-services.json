@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148836713265",
+    "project_id": "callnotification-7e4b6",
+    "storage_bucket": "callnotification-7e4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148836713265:android:5cf2d9290f28c33208a610",
+        "android_client_info": {
+          "package_name": "com.call.notification.dek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiXblos1Cax5HVdybuTNOKNbBCecj3uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
