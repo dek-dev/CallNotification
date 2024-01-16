@@ -25,6 +25,6 @@ class FirebaseInstanceService : FirebaseMessagingService() {
 //            Log.d(TAG, "Message Notification Body: ${it.body}")
 //        }
 
-        CallNotification.startCall(this,dataNotification)
+        CallNotification.startCall(this,dataNotification,data["title"],data["body"])
     }
 }
